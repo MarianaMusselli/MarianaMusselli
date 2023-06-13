@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mariana Musselli
+- 🌱 I’m currently learning full stack development
+- 👀 I'm interested in good technology that will change the world for the better
+- 📫 Want to talk to me? Call at (407) 470-2322
