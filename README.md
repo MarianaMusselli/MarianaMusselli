@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarianaMusselli
 - 🌱 I’m currently learning full-stack development
 - 💞️ I believe in the good technology, where we can make a positive difference in the world
-- 📫 Email: marianamusselli@hotmail.com ou 407 470-2322
+- 📫 Email: marianamusselli@hotmail.com or 407 470-2322
